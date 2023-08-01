@@ -15,6 +15,6 @@ pytorch == 2.0
 ##Testing
 run the script below, the results will be saved in ./results/
 ```
-python test.py 
+python val.py 
 ```
 
