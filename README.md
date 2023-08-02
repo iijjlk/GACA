@@ -23,8 +23,6 @@ pip install -r requirements.txt
 <!-- ### Training: -->
 ###Testing
 
-####Prepare Testing Data:
-
 You can put the testing images in the test folder. Run the script below, 
 the results will be saved in results folder.
 
