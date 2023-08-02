@@ -21,15 +21,18 @@ conda activate GACA
 pip install -r requirements.txt
 ```
 
-
 ###Testing
 
 ####Prepare Testing Data:
+
 You can put the testing images in the test folder. Run the script below, 
 the results will be saved in results folder.
+
 ```
 python val.py 
 ```
+
+
 
 ### Contact
 If you have any questions, please feel free to reach me out at `yaozishu@qdu.edu.cn`. 
