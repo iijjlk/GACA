@@ -20,7 +20,7 @@ conda activate GACA
 # install python dependencies
 pip install -r requirements.txt
 ```
-
+<!-- ### Training: -->
 ###Testing
 
 ####Prepare Testing Data:
