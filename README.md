@@ -1,5 +1,5 @@
 # GACA
-this is the code for the paper "GACA:A Gradient-Aware and Contrastive-Adaptive
+This is the code for the paper "GACA:A Gradient-Aware and Contrastive-Adaptive
 Learning Framework for Low-Light Image Enhancement"
 
 <img src="read/fig2.jpg">
